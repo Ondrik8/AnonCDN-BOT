@@ -1,0 +1,537 @@
+1647692973985	geckodriver	INFO	Listening on 127.0.0.1:51185
+1647692977059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51186" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilerxlb2w"
+1647692977478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilerxlb2w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51186/devtools/browser/3787a54f-89a5-48fd-867f-c194de12f8b9
+1647692979304	Marionette	INFO	Listening on port 51194
+1647692979744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647693005458	Marionette	INFO	Stopped listening on port 51194
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647693007763	geckodriver	INFO	Listening on 127.0.0.1:51259
+1647693010829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51260" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile76GNpm"
+1647693011097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile76GNpm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51260/devtools/browser/938d3537-ca8f-4349-8fa5-86bc165b2216
+1647693012880	Marionette	INFO	Listening on port 51266
+1647693012965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647693023536	Marionette	INFO	Stopped listening on port 51266
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1647693042890	geckodriver	INFO	Listening on 127.0.0.1:51333
+1647693045954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51334" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileTbdCA8"
+1647693046223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileTbdCA8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51334/devtools/browser/806775c2-f72d-4b9f-b193-4528983275a7
+1647693048015	Marionette	INFO	Listening on port 51340
+1647693048100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1647693081968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51422" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileWfkvR5"
+1647693082247	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileWfkvR5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51422/devtools/browser/55d9c6ea-ff64-4f25-806b-4343118c5c3f
+1647693083974	Marionette	INFO	Listening on port 51431
+1647693084029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693085342	Marionette	INFO	Stopped listening on port 51431
+1647693112155	geckodriver	INFO	Listening on 127.0.0.1:51511
+1647693115235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51512" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebvtpYF"
+1647693115513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebvtpYF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51512/devtools/browser/7155137a-ea13-46bd-a072-e9b42e8815ed
+1647693117242	Marionette	INFO	Listening on port 51522
+1647693117274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693118618	Marionette	INFO	Stopped listening on port 51522
+1647693186797	geckodriver	INFO	Listening on 127.0.0.1:51641
+1647693189866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51642" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileMaj8xa"
+1647693190154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileMaj8xa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51642/devtools/browser/55a341f5-113f-4f66-915f-616467bdc316
+1647693192007	Marionette	INFO	Listening on port 51648
+1647693192033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693193198	Marionette	INFO	Stopped listening on port 51648
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647693258958	geckodriver	INFO	Listening on 127.0.0.1:51772
+1647693262031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51773" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilevmS7Dt"
+1647693262305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilevmS7Dt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51773/devtools/browser/a5fc30a7-b7bd-477c-81c5-b8337c259cf1
+1647693264120	Marionette	INFO	Listening on port 51790
+1647693264170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693265348	Marionette	INFO	Stopped listening on port 51790
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647693274931	geckodriver	INFO	Listening on 127.0.0.1:51838
+1647693278011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51840" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilen64XJz"
+1647693278275	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilen64XJz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51840/devtools/browser/0ca0c65f-5f60-4925-a0da-4f4a80f13b71
+1647693280032	Marionette	INFO	Listening on port 51847
+1647693280054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693294903	Marionette	INFO	Stopped listening on port 51847
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647693300411	geckodriver	INFO	Listening on 127.0.0.1:51918
+1647693303485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51919" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileV5oqYN"
+1647693303749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileV5oqYN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51919/devtools/browser/ab306087-f602-4aba-9008-4d7374bc0e4d
+1647693305512	Marionette	INFO	Listening on port 51927
+1647693305536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693309638	Marionette	INFO	Stopped listening on port 51927
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647693336487	geckodriver	INFO	Listening on 127.0.0.1:52005
+1647693339549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52006" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileIKW51Z"
+1647693339815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileIKW51Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52006/devtools/browser/65ae3e1c-f936-49bb-9504-1ddb40b8e1b8
+1647693341577	Marionette	INFO	Listening on port 52012
+1647693341620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693345082	Marionette	INFO	Stopped listening on port 52012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647693348621	geckodriver	INFO	Listening on 127.0.0.1:52066
+1647693351684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52067" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile4C4VeD"
+1647693351955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile4C4VeD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52067/devtools/browser/a8a04e17-c9f6-4386-91a7-66819f2f4794
+1647693353651	Marionette	INFO	Listening on port 52076
+1647693353738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693359137	Marionette	INFO	Stopped listening on port 52076
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647693448642	geckodriver	INFO	Listening on 127.0.0.1:52234
+1647693451730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52235" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilevCWRkt"
+1647693451991	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilevCWRkt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52235/devtools/browser/644282d3-b017-432b-93dc-461c9dbf96ae
+1647693453750	Marionette	INFO	Listening on port 52241
+1647693453780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693603432	Marionette	INFO	Stopped listening on port 52241
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52412" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile30WAfq"
+1647693590589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile30WAfq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52412/devtools/browser/5803d461-e83f-4e38-b5b2-494d332c6e01
+1647693592502	Marionette	INFO	Listening on port 52422
+1647693592932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693601848	Marionette	INFO	Stopped listening on port 52422
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647693605167	geckodriver	INFO	Listening on 127.0.0.1:52485
+1647693608250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52486" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileq9tjAU"
+1647693608516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileq9tjAU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52486/devtools/browser/e16b35b9-96e1-49a4-afbd-cf640f90dacb
+1647693610269	Marionette	INFO	Listening on port 52494
+1647693610293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693614515	Marionette	INFO	Stopped listening on port 52494
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647693622777	geckodriver	INFO	Listening on 127.0.0.1:52564
+1647693625853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52565" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilepvEzTV"
+1647693626122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilepvEzTV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52565/devtools/browser/c51f1e81-c01d-4062-b5df-5c648132bcad
+1647693627899	Marionette	INFO	Listening on port 52572
+1647693628000	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693631206	Marionette	INFO	Stopped listening on port 52572
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647693692111	geckodriver	INFO	Listening on 127.0.0.1:52682
+1647693695198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52683" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileHCeXd5"
+1647693695463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileHCeXd5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52683/devtools/browser/e1e27bbd-00f7-4c0a-b4df-06b70a50322a
+1647693697180	Marionette	INFO	Listening on port 52691
+1647693697246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693701549	Marionette	INFO	Stopped listening on port 52691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647693766206	geckodriver	INFO	Listening on 127.0.0.1:52807
+1647693769266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52808" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileksfo6G"
+1647693769529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileksfo6G\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52808/devtools/browser/00481d91-3e3d-49f1-85b0-aff4a5e5dfac
+1647693771429	Marionette	INFO	Listening on port 52814
+1647693771915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647693797220	Marionette	INFO	Stopped listening on port 52814
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52867" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileFNA6ue"
+1647693787782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileFNA6ue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52867/devtools/browser/0546d13a-2a4b-4c11-8959-9de312412071
+1647693789607	Marionette	INFO	Listening on port 52875
+1647693789656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://anonfiles.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://anonfiles.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647693932690	Marionette	INFO	Stopped listening on port 52875
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647693934413	geckodriver	INFO	Listening on 127.0.0.1:59526
+1647693937487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59527" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebEZpEb"
+1647693937752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebEZpEb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59527/devtools/browser/a624e535-476f-42b0-affd-39135b6bef1f
+1647693939519	Marionette	INFO	Listening on port 59533
+1647693939537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647693996301	Marionette	INFO	Stopped listening on port 59533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59596" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilegqRneX"
+1647693962703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilegqRneX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59596/devtools/browser/f9194904-e29e-48ae-8e65-5108e499e8b3
+1647693964443	Marionette	INFO	Listening on port 59602
+1647693964481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://anonfiles.com"
+1647694051253	geckodriver	INFO	Listening on 127.0.0.1:59716
+1647694054344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59717" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile8257jB"
+1647694054604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile8257jB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59717/devtools/browser/bd881a02-6bae-46e9-8037-7b327e5a9c38
+1647694056389	Marionette	INFO	Listening on port 59723
+1647694056499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647694087017	geckodriver	INFO	Listening on 127.0.0.1:59792
+1647694090080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59793" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilenr1XQD"
+1647694090402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilenr1XQD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59793/devtools/browser/8c4bbcfa-7e67-4762-8d32-eb8ba0d4a3e2
+1647694092393	Marionette	INFO	Listening on port 59801
+1647694092743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://anonfiles.com"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647694128749	Marionette	INFO	Stopped listening on port 59801
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647694131465	geckodriver	INFO	Listening on 127.0.0.1:59885
+1647694134536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59886" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileunFqnL"
+1647694134810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileunFqnL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59886/devtools/browser/e4ddc970-009d-4aa2-8a81-5bab2df3983d
+1647694136633	Marionette	INFO	Listening on port 59892
+1647694136695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://anonfiles.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1647694334611	Marionette	INFO	Stopped listening on port 59892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+oid 0)))
+DevTools listening on ws://localhost:59991/devtools/browser/bba681b8-4130-4b74-8a63-d9f9f548356a
+1647694200073	Marionette	INFO	Listening on port 60000
+1647694200184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647694333999	Marionette	INFO	Stopped listening on port 60000
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+7694332137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileYiY05C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60168/devtools/browser/b655a445-1b1b-43d5-ad7c-73623f3dac13
+1647694333990	Marionette	INFO	Listening on port 60179
+1647694334484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647694406983	geckodriver	INFO	Listening on 127.0.0.1:60289
+1647694410065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60290" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileS8XtTM"
+1647694410326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileS8XtTM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60290/devtools/browser/b3df66cd-3939-4b56-831b-d131c4159627
+1647694412080	Marionette	INFO	Listening on port 60298
+1647694412107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://anonfiles.com"
+1647694453655	geckodriver	INFO	Listening on 127.0.0.1:60379
+1647694456725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60380" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebTSiIP"
+1647694456999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebTSiIP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60380/devtools/browser/740e6993-fc2b-4083-ae19-6596831e3aa2
+1647694458776	Marionette	INFO	Listening on port 60387
+1647694458795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647694515980	geckodriver	INFO	Listening on 127.0.0.1:60468
+1647694519021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60469" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileO2HSbW"
+1647694519402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileO2HSbW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60469/devtools/browser/b5efaae5-f058-4a29-b22d-a019dc32c064
+1647694521212	Marionette	INFO	Listening on port 60478
+1647694521698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647694523413	Marionette	INFO	Stopped listening on port 60478
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647694894712	geckodriver	INFO	Listening on 127.0.0.1:60932
+1647694897769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60933" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileOsHnGX"
+1647694898062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileOsHnGX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60933/devtools/browser/147a04b2-0ca0-4b2c-8ded-edce20152be0
+1647694900035	Marionette	INFO	Listening on port 60942
+1647694900444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647694912510	Marionette	INFO	Stopped listening on port 60942
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1647694994355	geckodriver	INFO	Listening on 127.0.0.1:61040
+1647694997430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61041" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileMcBrfX"
+1647694997763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileMcBrfX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61041/devtools/browser/6235011b-79bd-4e83-a6e7-f1ca71bb4e57
+1647695000143	Marionette	INFO	Listening on port 61049
+1647695000592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647695005232	Marionette	INFO	Stopped listening on port 61049
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647695006006	geckodriver	INFO	Listening on 127.0.0.1:61103
+1647695009083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61104" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileK9xlja"
+1647695009426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileK9xlja\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61104/devtools/browser/71242882-f4e0-4968-934f-7242cbb42612
+1647695011654	Marionette	INFO	Listening on port 61109
+1647695011747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647695013487	Marionette	INFO	Stopped listening on port 61109
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647695162025	geckodriver	INFO	Listening on 127.0.0.1:61190
+1647695165095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61191" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileZNNdZ4"
+1647695165427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileZNNdZ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61191/devtools/browser/084b7486-1d78-4cf1-a36c-4b8cbd7cbb4c
+1647695167624	Marionette	INFO	Listening on port 61198
+1647695167766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647695170541	Marionette	INFO	Stopped listening on port 61198
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647695171311	geckodriver	INFO	Listening on 127.0.0.1:61247
+1647695174378	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61248" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile7Kruhb"
+1647695174708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile7Kruhb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61248/devtools/browser/b6457fbc-5790-407c-9cc8-08390418e656
+1647695176796	Marionette	INFO	Listening on port 61254
+1647695177032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647695178852	Marionette	INFO	Stopped listening on port 61254
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647697651188	geckodriver	INFO	Listening on 127.0.0.1:54324
+1647697654255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54325" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileQoNZK2"
+1647697654553	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileQoNZK2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54325/devtools/browser/d166cf07-df78-4cd5-be97-d11e0a4240a2
+1647697656371	Marionette	INFO	Listening on port 54332
+1647697656422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697659212	Marionette	INFO	Stopped listening on port 54332
+1647697659948	geckodriver	INFO	Listening on 127.0.0.1:54385
+1647697663020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54386" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilep9mfdt"
+1647697663298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilep9mfdt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54386/devtools/browser/ca887e60-eb96-4e54-988f-f96011ee6427
+1647697665070	Marionette	INFO	Listening on port 54391
+1647697665165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647697667405	Marionette	INFO	Stopped listening on port 54391
+1647697712005	geckodriver	INFO	Listening on 127.0.0.1:54456
+1647697715086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54457" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileyUjlQ9"
+1647697715356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileyUjlQ9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54457/devtools/browser/da2d939f-0d50-43de-896e-0e051c4e3a59
+1647697717182	Marionette	INFO	Listening on port 54462
+1647697717256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697720068	Marionette	INFO	Stopped listening on port 54462
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647697720883	geckodriver	INFO	Listening on 127.0.0.1:54509
+1647697723966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54510" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile7teH7i"
+1647697724230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile7teH7i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54510/devtools/browser/93ef40b4-7a40-48de-8b70-5df7d5079c67
+1647697726216	Marionette	INFO	Listening on port 54516
+1647697726621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697728490	Marionette	INFO	Stopped listening on port 54516
+1647697783867	geckodriver	INFO	Listening on 127.0.0.1:54562
+1647697786940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54563" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebTHPnR"
+1647697787206	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebTHPnR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54563/devtools/browser/f4e695d9-4e00-4323-8159-eb9fb0096c07
+1647697789034	Marionette	INFO	Listening on port 54568
+1647697789101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697792387	Marionette	INFO	Stopped listening on port 54568
+1647697793076	geckodriver	INFO	Listening on 127.0.0.1:54620
+1647697796118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54621" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileQmRKWu"
+1647697796510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileQmRKWu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54621/devtools/browser/f74123d4-289d-4c97-9c0d-18bce1776018
+1647697798288	Marionette	INFO	Listening on port 54627
+1647697798787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697800566	Marionette	INFO	Stopped listening on port 54627
+1647697814078	geckodriver	INFO	Listening on 127.0.0.1:54683
+1647697817148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54684" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileeBqv3s"
+1647697817429	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileeBqv3s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54684/devtools/browser/7283c2ff-d61a-4fa0-afdd-42a2084d78a3
+1647697819153	Marionette	INFO	Listening on port 54690
+1647697819188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697821892	Marionette	INFO	Stopped listening on port 54690
+1647697822600	geckodriver	INFO	Listening on 127.0.0.1:54737
+1647697825670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54738" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilefiANDl"
+1647697825939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilefiANDl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54738/devtools/browser/c7cda938-2b66-49e6-91ac-ec0b3281b37e
+1647697827683	Marionette	INFO	Listening on port 54743
+1647697827707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697829401	Marionette	INFO	Stopped listening on port 54743
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647697843594	geckodriver	INFO	Listening on 127.0.0.1:54795
+1647697846663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54796" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebQCQ6k"
+1647697846936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilebQCQ6k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54796/devtools/browser/2c4ae22f-bfbe-4801-9054-9255dfb6e41d
+1647697848796	Marionette	INFO	Listening on port 54801
+1647697848819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1647697851102	geckodriver	INFO	Listening on 127.0.0.1:54838
+1647697855391	geckodriver	INFO	Listening on 127.0.0.1:54842
+1647697876522	geckodriver	INFO	Listening on 127.0.0.1:54851
+1647697879597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54852" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileFdA2Ww"
+1647697879866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileFdA2Ww\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54852/devtools/browser/6748e6f8-db1f-4f51-ad55-b160e2b50ece
+1647697881695	Marionette	INFO	Listening on port 54861
+1647697881756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697885158	Marionette	INFO	Stopped listening on port 54861
+1647697885883	geckodriver	INFO	Listening on 127.0.0.1:54907
+1647697888958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54908" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilecItDEh"
+1647697889234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilecItDEh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54908/devtools/browser/4e4e8e7b-27f9-43e6-a97c-054d45878815
+1647697890996	Marionette	INFO	Listening on port 54914
+1647697891111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697892822	Marionette	INFO	Stopped listening on port 54914
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647697970913	geckodriver	INFO	Listening on 127.0.0.1:55020
+1647697973979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55021" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile8UaWgW"
+1647697974418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile8UaWgW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55021/devtools/browser/9f274753-7359-4ea5-bece-073a077c980d
+1647697976509	Marionette	INFO	Listening on port 55026
+1647697976640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697979438	Marionette	INFO	Stopped listening on port 55026
+1647697980489	geckodriver	INFO	Listening on 127.0.0.1:55071
+1647697983561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55072" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilez1CtWs"
+1647697983880	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilez1CtWs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55072/devtools/browser/9b56bf8e-af11-403e-9290-b9d344682ab4
+1647697985883	Marionette	INFO	Listening on port 55079
+1647697986220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647697988074	Marionette	INFO	Stopped listening on port 55079
+1647698037117	geckodriver	INFO	Listening on 127.0.0.1:55131
+1647698040184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55132" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileNnomqO"
+1647698040519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileNnomqO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55132/devtools/browser/91f47bb2-b6a0-492a-9f48-307d2fe2c564
+1647698042691	Marionette	INFO	Listening on port 55142
+1647698042842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647698045585	Marionette	INFO	Stopped listening on port 55142
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1647698046341	geckodriver	INFO	Listening on 127.0.0.1:55189
+1647698049429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55190" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilepEYXyw"
+1647698049751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilepEYXyw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55190/devtools/browser/aee512cd-18d2-485a-b982-9e063ad3e708
+1647698051882	Marionette	INFO	Listening on port 55197
+1647698052116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647698053859	Marionette	INFO	Stopped listening on port 55197
+1647698097189	geckodriver	INFO	Listening on 127.0.0.1:55246
+1647698100259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55247" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileFspqu7"
+1647698100683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileFspqu7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55247/devtools/browser/f0ed040a-b09f-4a48-8b0f-fcfcc0757966
+1647698102857	Marionette	INFO	Listening on port 55252
+1647698102921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647698105705	Marionette	INFO	Stopped listening on port 55252
+1647698106579	geckodriver	INFO	Listening on 127.0.0.1:55308
+1647698109638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55309" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile5U03yq"
+1647698109957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofile5U03yq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55309/devtools/browser/b10a9e4d-1a29-45e3-bf57-9d3ed72254c6
+1647698111915	Marionette	INFO	Listening on port 55315
+1647698112281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647698114034	Marionette	INFO	Stopped listening on port 55315
+1647698622932	geckodriver	INFO	Listening on 127.0.0.1:55504
+1647698625986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55505" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileGwHOzw"
+1647698626255	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofileGwHOzw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55505/devtools/browser/714ffe87-7731-43e9-a684-e858274500cb
+1647698628103	Marionette	INFO	Listening on port 55510
+1647698628140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647698630382	Marionette	INFO	Stopped listening on port 55510
+1647698631147	geckodriver	INFO	Listening on 127.0.0.1:55558
+1647698634219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55559" "-no-remote" "-profile" "C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilea2PNxY"
+1647698634500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\31628\\AppData\\Local\\Temp\\rust_mozprofilea2PNxY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55559/devtools/browser/2b8b3aaa-534a-4c75-908d-b1302a631751
+1647698636361	Marionette	INFO	Listening on port 55564
+1647698636884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://anonfiles.com/js/app.js?1644411236, line 156: TypeError: window.external.msTrackingProtectionEnabled is not a function
+1647698638542	Marionette	INFO	Stopped listening on port 55564
+[Parent 1924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
