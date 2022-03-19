@@ -13,8 +13,8 @@ a BOT automaticly uploading multiple files to AnonCDN controlling your browser. 
 
 # Installation
 Download this repistory as a ZIP.<br>
-Install <a href="https://python.org">Python</a> on Windows 10.<br>
-Install <a href="https://firefox.org">FireFox Browser</a>
+Install <a href="https://www.python.org/downloads/">Python</a> on Windows 10.<br>
+Install <a href="https://www.mozilla.org/nl/firefox/new/">FireFox Browser</a>
 Open your CMD in the directory for 'AnonCDN-BOT' and then run the following commands:<br>
 ```shell
 pip install selenium
