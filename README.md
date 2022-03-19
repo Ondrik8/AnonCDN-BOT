@@ -30,5 +30,6 @@ Then follow the following commands:
 ```shell
 python anonup.py
 ```
+All uploaded files to the CDN will be saved at ``uploads.txt``
 
 
